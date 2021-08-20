@@ -1,1 +1,1 @@
-# Expenses App in React
+# Expenses App
