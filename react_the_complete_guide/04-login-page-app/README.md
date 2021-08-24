@@ -1,4 +1,4 @@
-# Project 4 - A typical Login Page
+# Project 4 - A Typical Login Page
 
 ### Topics Covered
 
