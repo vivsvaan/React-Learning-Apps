@@ -1,1 +1,0 @@
-# Course Goals App
