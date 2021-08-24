@@ -1,2 +1,2 @@
-# React-Learning-Apps
+# React Learning Apps
 Simple Apps I made while learning React.
