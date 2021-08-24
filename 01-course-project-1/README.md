@@ -1,7 +1,9 @@
-# Course Project 1 - Expenses App
+# Project 1 - Expenses App
 
-### React Basics and working with Components
+### Topics Covered
 
-### React State and working with Events
+-   React Basics and working with Components
 
-### Rendering Lists and Conditional Content
+-   React State and working with Events
+
+-   Rendering Lists and Conditional Content

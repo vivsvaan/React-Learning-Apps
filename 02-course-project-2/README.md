@@ -1,5 +1,7 @@
-# Course Project 2 - Course Goals App
+# Project 2 - Course Goals App
 
-### Styling React Components
+### Topics Covered
 
-### Debugging React Apps
+-   Styling React Components
+
+-   Debugging React Apps
