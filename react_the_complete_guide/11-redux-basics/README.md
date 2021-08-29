@@ -1,4 +1,4 @@
-# Project1 - Redux Basics
+# Project 11 - Redux Basics
 
 ### Topics Covered
 
